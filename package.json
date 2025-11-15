@@ -1,0 +1,9 @@
+{
+  "name": "nasgh",
+  "version": "1.0.0",
+  "description": "Nasgh BLE + AI Web App",
+  "type": "module",
+  "scripts": {
+    "start": "node api/nasgh-ai.js"
+  }
+}
